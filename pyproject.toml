@@ -1,9 +1,9 @@
 [project]
 name = "projeto-ml"
 version = "0.1.0"
-description = ""
+description = "Projeto introdutório de machine learning para prever preços de pizzas."
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Agatha Lafaiety", email = "72627509+agathalafaiety@users.noreply.github.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.11"
